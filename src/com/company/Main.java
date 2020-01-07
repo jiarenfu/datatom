@@ -10,6 +10,6 @@ public class Main {
 
     public static void main(String[] args) {
         Main M = new Main();
-        M.method(32);
+        M.method(321);
     }
 }
